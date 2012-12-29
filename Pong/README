@@ -1,0 +1,13 @@
+Pong
+
+Pong is a classic game from the past. 
+My implementation lets you play against a computer or with a friend in a game to 10. 
+To play a computer, set the value of the "numPlayers" file to 1. 
+To play with a friend, set it to 2.
+If you are playing a computer, you control the left paddle using the arrow keys.
+If you are playing with a friend, the arrow keys control the right paddle and 
+the a/s/d/w keys control the left.
+
+Depending on which part of the paddle you hit the ball with, it changes the movement of the ball accordingly. 
+I've included a JAR file to make running/playing easy, just be sure to keep the "numPlayers" file 
+in the same directory.
